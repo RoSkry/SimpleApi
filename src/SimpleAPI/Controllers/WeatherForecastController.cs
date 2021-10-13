@@ -36,7 +36,7 @@ namespace SimpleAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> GetById(int Id)
         {
-            return "Rost Name";
+            return "Skryp Name";
         }
     }
 }
