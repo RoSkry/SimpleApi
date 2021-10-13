@@ -13,7 +13,7 @@ namespace SimpleAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "dotnet", "azure", "angular"
+            "dotnet", "azure", "angular", "docker", "kubernetes"
         };
 
         public WeatherForecastController()
